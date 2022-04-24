@@ -1,4 +1,4 @@
-# doomMappingExample
+# DoomMappingExample
 
 **info:** example of primary and secondary mapping<br/>
 **iwad:** doom2<br/>
